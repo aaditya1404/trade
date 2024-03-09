@@ -4,7 +4,7 @@ const ContactUs = () => {
     return (
         <div className='w-full h-[100vh] flex flex-col'>
             <div>
-                <p className='mt-40 p-8'>If you have any queries please feel free to contact us.</p>
+                <p className='mt-40 p-8'>If you have any queries please feel free to contact us, we would be delited to help you.</p>
             </div>
             <div className='p-8 flex justify-around'>
                 <div>
