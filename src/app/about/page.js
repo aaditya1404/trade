@@ -9,7 +9,7 @@ const AboutPage = () => {
           width={500}
           className="px-8"></Image>
         <div className="p-4 flex justify-between flex-col">
-          <h1 className="py-2 text-black text-xl font-semibold">Our success story</h1>
+          <h1 className="py-2 text-black text-xl font-semibold">Our success stories</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque eum, praesentium non, architecto ex quasi animi porro, explicabo dicta quis a asperiores nesciunt aliquid reprehenderit.
           </p>

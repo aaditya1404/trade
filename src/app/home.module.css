@@ -7,3 +7,7 @@
         transform: translateX(-100%);
     }
 }
+
+.logo-slide{
+    animation: 5s slide infinite linear;
+}
